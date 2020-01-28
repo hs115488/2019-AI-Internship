@@ -13,4 +13,9 @@ Collaborators:
 Programming Languages Used: Python(pandas, FbProphet, ARIMA, sklearn, keras, tensorflow)
 Software Used: Jupyter Notebook(Python 3.7), Linux Terminal, Git
 
+## Dataset
+
+S & P 500(Ticker Symbol: SPX)
+-06/01/2017 - 05/31/2018
+
 
