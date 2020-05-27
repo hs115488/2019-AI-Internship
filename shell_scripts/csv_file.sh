@@ -11,6 +11,7 @@ sed -e "s/ /,/g" $file
 
 date = awk '{print $1}' $file
 close = awk {print $4}  $file
+test_file = $date$close
 
 awk -F '{
           getline file1 < $file; print file1, $1, $4
