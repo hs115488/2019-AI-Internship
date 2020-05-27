@@ -19,7 +19,7 @@ awk -F '{
 cat $file1
 
 echo "Your file is complete"
-echo "It is located at $pwd"
+echo "It is located at $(pwd)"
 echo "Goodbye"
 
 exit
